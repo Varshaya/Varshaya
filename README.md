@@ -1,16 +1,87 @@
-## Hi 😊, I'm Varsha 
+<h1 align="center">Hi 👋, I'm Varsha Yadav</h1>
+<h3 align="center">A passionate Developer and Learner from Delhi</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/varsha-yadav-23288622b) 
+<img align="right" alt="Coding girl" width="300" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Varshaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Varshaya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🌱 I’m currently learning **Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, Web Dev, or Machine Learning**
+- 📫 How to reach me: **www.linkedin.com/in/varsha-yadav-23288622b**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Varshaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Languages and Tools:
+
+#### 🚀 Languages:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+#### ⚙️ Frameworks:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+</p>
+
+#### 📚 Libraries:
+<p>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-004b6b?style=flat-square&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+#### 🧰 Tools:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyCharm Professional-000000?style=flat-square&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WAMPServer-ffc107?style=flat-square&logo=wampserver&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
+
+---
+
+### 🧪 Projects
+
+Here are some of the cool things I’ve built:
+
+- 🔍 [**Fake News Detection App**](https://github.com/your-username/fake-news-detector) – A machine learning app that flags fake news using NLP  
+- 📚 [**Book Recommender System**](https://github.com/your-username/book-recommender) – Personalized book recommendations based on fuzzy matching  
+- 💊 [**Online Pharmacy System (Salesforce)**](https://github.com/your-username/pharmacy-salesforce) – A full-stack Salesforce-based pharmacy management system  
+- 🤖 [**AI Chatbot in JavaScript**](https://github.com/your-username/js-ai-chatbot) – Rule-based + generative chatbot with modern UI  
+- 📅 [**React Daily Planner**](https://github.com/your-username/react-planner) – React-based planner with calendar, clock & fixed sidebar  
+
+---
+
+### 🎨 Hobbies
+
+<p>
+  Outside of tech, I love:
+  - 🏸 Playing badminton  
+  - 📖 Reading books  
+  - 🎨 Painting  
+  - 🎧 Listening to lo-fi & indie music
+  - 🌱 Gardening
+</p>
+
+<img align="center" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300"/>
+
+---
+
+### 🔗 Connect with Me:
+
+<p align="left">
+  <a href="www.linkedin.com/in/varsha-yadav-23288622b" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/></a>
+</p>
