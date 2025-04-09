@@ -42,6 +42,9 @@
 
 #### 🧰 Tools:
 <p>
+  <a href="https://www.kaggle.com/varshayadav2902" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40"/>
+</a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyCharm Professional-000000?style=flat-square&logo=jetbrains&logoColor=white" />
@@ -56,11 +59,9 @@
 
 Here are some of the cool things I’ve built:
 
-- 🔍 [**Fake News Detection App**](https://github.com/your-username/fake-news-detector) – A machine learning app that flags fake news using NLP  
+- 🔍 [**Fake News Detection App**](https://github.com/your-username/fake-news-detector) – A machine learning app that flags fake news using Machine Learning
 - 📚 [**Book Recommender System**](https://github.com/your-username/book-recommender) – Personalized book recommendations based on fuzzy matching  
-- 💊 [**Online Pharmacy System (Salesforce)**](https://github.com/your-username/pharmacy-salesforce) – A full-stack Salesforce-based pharmacy management system  
-- 🤖 [**AI Chatbot in JavaScript**](https://github.com/your-username/js-ai-chatbot) – Rule-based + generative chatbot with modern UI  
-- 📅 [**React Daily Planner**](https://github.com/your-username/react-planner) – React-based planner with calendar, clock & fixed sidebar  
+- 📅 [**React Daily Planner**](https://github.com/your-username/react-planner) – React-based planner with calendar, clock, to-do list & Notes
 
 ---
 
@@ -75,7 +76,13 @@ Here are some of the cool things I’ve built:
   - 🌱 Gardening
 </p>
 
-<img align="center" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="300"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" height = "200" width="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height = "200" width="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" height="200" width="300"/>
+</div>
 
 ---
 
