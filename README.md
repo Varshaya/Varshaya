@@ -59,8 +59,14 @@
 
 Here are some of the cool things I’ve built:
 
+#### My First Ever Project 😊 🔍:
+- 💻 [**EduBright**] - Built Using : Html5, CSS3, Bootstrap, PHP, MYSQL, WampServer  - An E-Learning Site with Authentication System
+
+#### Other Projects:
+- 🗒️ [**TextBunny**](https://textbunny-2hfcojxbj-varshayas-projects.vercel.app/) – React-based text utility application
+- 📚 [**Book Recommender System**](https://github.com/your-username/book-recommender) – Personalized book recommendations based on fuzzy matching
 - 🔍 [**Fake News Detection App**](https://github.com/your-username/fake-news-detector) – A machine learning app that flags fake news using Machine Learning
-- 📚 [**Book Recommender System**](https://github.com/your-username/book-recommender) – Personalized book recommendations based on fuzzy matching  
+- 💊 [**Parkison's Disease Prediction**](https://github.com/your-username/react-planner) – React-based planner with calendar, clock, to-do list & Notes
 - 📅 [**React Daily Planner**](https://github.com/your-username/react-planner) – React-based planner with calendar, clock, to-do list & Notes
 
 ---
