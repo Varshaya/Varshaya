@@ -67,7 +67,9 @@ Here are some of the cool things I’ve built:
 - 📚 [**Book Recommender System**](https://book-recommender-sys-h2rj.onrender.com) – Personalized book recommendations based on fuzzy matching
 - 🔍 [**Fake News Detection App**](https://github.com/your-username/fake-news-detector) – A machine learning app that flags fake news
 - 💊 [**Parkison's Disease Prediction**](https://www.kaggle.com/code/varshayadav2902/parkison-s-disease-prediction) – Machine Learning App
+- ☀️ [**Weather App**](https://varshaya.github.io/weather-app/) - Javascrit based weather application (uses weather api)
 - 📅 [**React Daily Planner**](https://github.com/your-username/react-planner) – React-based planner with calendar, clock, to-do list & Notes
+
 
 ---
 
