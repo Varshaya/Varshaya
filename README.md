@@ -100,3 +100,10 @@ Here are some of the cool things I’ve built:
   <a href="www.linkedin.com/in/varsha-yadav-23288622b" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
   <a href="mailto:your@email.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/></a>
 </p>
+
+### 🐾 Visits: 
+![Visitors](https://count.getloli.com/get/@Varshaya.github.profile?theme=capoo-2)
+
+
+
+
