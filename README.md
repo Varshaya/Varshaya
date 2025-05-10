@@ -63,11 +63,10 @@ Here are some of the cool things I’ve built:
 - 💻 [**EduBright**] - Built Using : Html5, CSS3, Bootstrap, PHP, MYSQL, WampServer  - An E-Learning Site with Authentication System
 
 #### Other Projects:
-- 🗒️ [**TextBunny**](https://textbunny-2hfcojxbj-varshayas-projects.vercel.app/) – React-based text utility application
 - 📚 [**Book Recommender System**](https://book-recommender-sys-h2rj.onrender.com) – Personalized book recommendations based on fuzzy matching
 - 💊 [**Parkison's Disease Prediction**](https://www.kaggle.com/code/varshayadav2902/parkison-s-disease-prediction) – Machine Learning App
-- ☀️ [**Weather App**](https://varshaya.github.io/weather-app/) - Javascrit based weather application (uses weather api)
-  
+- 🗒️ [**TextBunny**](https://textbunny-2hfcojxbj-varshayas-projects.vercel.app/) – React-based text utility application
+- 🍓 [**Pomodoro Timer**](https://timer-self-five.vercel.app/) - A Pomodoro Focus Timer   
 - 📈 [**View All**](https://github.com/Varshaya/Projects)
 
 ---
