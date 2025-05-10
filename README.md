@@ -65,7 +65,6 @@ Here are some of the cool things I’ve built:
 #### Other Projects:
 - 🗒️ [**TextBunny**](https://textbunny-2hfcojxbj-varshayas-projects.vercel.app/) – React-based text utility application
 - 📚 [**Book Recommender System**](https://book-recommender-sys-h2rj.onrender.com) – Personalized book recommendations based on fuzzy matching
-- 🔍 [**Fake News Detection App**](https://github.com/your-username/fake-news-detector) – A machine learning app that flags fake news
 - 💊 [**Parkison's Disease Prediction**](https://www.kaggle.com/code/varshayadav2902/parkison-s-disease-prediction) – Machine Learning App
 - ☀️ [**Weather App**](https://varshaya.github.io/weather-app/) - Javascrit based weather application (uses weather api)
   
